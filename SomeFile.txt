@@ -1,5 +1,6 @@
-Some
+Add other
 text
-in
+Some
 a
+in multiple places
 file
